@@ -1,0 +1,6 @@
+{  
+  "intents": [  
+    { "intent": "GetOffersIntent", "slots": [] },
+    { "intent": "AMAZON.StopIntent", "slots": [] }
+  ]  
+}

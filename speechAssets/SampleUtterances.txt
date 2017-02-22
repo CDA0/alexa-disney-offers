@@ -1,0 +1,11 @@
+GetOffersIntent what are the offers
+GetOffersIntent what are the current offers
+GetOffersIntent tell me the current offers
+GetOffersIntent tell me the offers
+GetOffersIntent for the current offers
+GetOffersIntent for the offers
+GetOffersIntent for offers
+
+AMAZON.StopIntent stop
+AMAZON.StopIntent off
+AMAZON.StopIntent shut up
